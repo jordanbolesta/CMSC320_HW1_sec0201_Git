@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Digital and tech acessiblity, like using data to make screen readers work better or helping automate alt text for images.
