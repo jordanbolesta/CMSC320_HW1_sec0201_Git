@@ -9,3 +9,7 @@ Answer: Digital and tech acessiblity, like using data to make screen readers wor
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging puts branches together and makes a new commit that shows it, and rebasing puts the branch at the end of main.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning more about how to apply data science to accessbility.
